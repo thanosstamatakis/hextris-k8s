@@ -1,0 +1,4 @@
+deployment:
+  image: tstamatakis/hextrisasdasd
+  tag: 1.0.0
+  imagePullPolicy: Always
